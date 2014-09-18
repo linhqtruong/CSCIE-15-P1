@@ -1,0 +1,23 @@
+body {
+    background-image: url('../img/texture.jpg');
+} 
+#container{
+	width: 50%;
+	margin: 0 auto;
+}
+#container h1{
+	text-align: center;
+}
+#container h3{
+	text-align: center;
+}
+#container img{
+	margin: 0 auto;
+	display: block;
+}
+#myCanvas{
+	border: 5px solid black;
+}
+body {
+	background-color: #F0F8FF;
+}
